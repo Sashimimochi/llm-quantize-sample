@@ -1,0 +1,6 @@
+version: "3"
+services:
+  quantize:
+    build: .
+    volumes:
+      - ./:/projects
