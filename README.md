@@ -25,3 +25,7 @@ model quantize complete
 $ ls -lh Rakuten/ | grep Rakuten
 -rw-r--r-- 1 root root 7.3G Apr 24 02:41 RakutenAI-7B-chat.gguf
 ```
+
+## References
+
+https://github.com/ggerganov/llama.cpp/discussions/2948
